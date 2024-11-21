@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "NLATools"
+version = "1.0.0"
+name = "Merge NLA Strips"
+tagline = "Combine selected NLA strips into one"
+maintainer = "Likkez"
+type = "add-on"
+
+tags = ["Animation", "Bake"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
