@@ -1,7 +1,7 @@
 schema_version = "1.0.0"
 
 id = "NLATools"
-version = "1.0.0"
+version = "1.2.0"
 name = "Merge NLA Strips"
 tagline = "Combine selected NLA strips into one"
 maintainer = "Likkez"
